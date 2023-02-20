@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-RecipeApp/static/css/main.073c9b0a.css",
+    "main.js": "/React-RecipeApp/static/js/main.aa418929.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-RecipeApp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/home.png": "/React-RecipeApp/static/media/home.840acfcc1b66c296d657.png",
+    "static/media/profil.jpg": "/React-RecipeApp/static/media/profil.e4e5380444c19dfba7d8.jpg",
+    "static/media/halo-halo.png": "/React-RecipeApp/static/media/halo-halo.e222dde13f12ec1b69a4.png",
+    "static/media/developer.png": "/React-RecipeApp/static/media/developer.e41613ce3d265f0940e4.png",
+    "static/media/navpng.png": "/React-RecipeApp/static/media/navpng.5b966bf8b014d313b8c1.png",
+    "static/media/github.png": "/React-RecipeApp/static/media/github.81563bbdce34dc956cf8.png",
+    "index.html": "/React-RecipeApp/index.html",
+    "main.073c9b0a.css.map": "/React-RecipeApp/static/css/main.073c9b0a.css.map",
+    "main.aa418929.js.map": "/React-RecipeApp/static/js/main.aa418929.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-RecipeApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.aa418929.js"
+  ]
+}
